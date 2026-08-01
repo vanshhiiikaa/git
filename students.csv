@@ -1,4 +1,4 @@
-Name,Age,City
-Alice,25,Delhi
-Bob,30,Mumbai
-Charlie,22,Lucknow
+,Name,Age,City
+0,Alice,25,Delhi
+1,Bob,30,Mumbai
+2,Charlie,22,Lucknow
